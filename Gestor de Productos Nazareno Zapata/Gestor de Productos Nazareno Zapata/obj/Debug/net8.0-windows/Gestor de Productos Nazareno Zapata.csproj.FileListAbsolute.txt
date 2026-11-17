@@ -1,0 +1,18 @@
+C:\Users\Nazz\source\repos\Gestor de Productos Nazareno Zapata\Gestor de Productos Nazareno Zapata\obj\Debug\net8.0-windows\Gestor_de_Productos_Nazareno_Zapata.Form1.resources
+C:\Users\Nazz\source\repos\Gestor de Productos Nazareno Zapata\Gestor de Productos Nazareno Zapata\obj\Debug\net8.0-windows\Gestor de Productos Nazareno Zapata.csproj.GenerateResource.cache
+C:\Users\Nazz\source\repos\Gestor de Productos Nazareno Zapata\Gestor de Productos Nazareno Zapata\obj\Debug\net8.0-windows\Gestor de Productos Nazareno Zapata.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nazz\source\repos\Gestor de Productos Nazareno Zapata\Gestor de Productos Nazareno Zapata\obj\Debug\net8.0-windows\Gestor de Productos Nazareno Zapata.AssemblyInfoInputs.cache
+C:\Users\Nazz\source\repos\Gestor de Productos Nazareno Zapata\Gestor de Productos Nazareno Zapata\obj\Debug\net8.0-windows\Gestor de Productos Nazareno Zapata.AssemblyInfo.cs
+C:\Users\Nazz\source\repos\Gestor de Productos Nazareno Zapata\Gestor de Productos Nazareno Zapata\obj\Debug\net8.0-windows\Gestor de Productos Nazareno Zapata.csproj.CoreCompileInputs.cache
+C:\Users\Nazz\source\repos\Gestor de Productos Nazareno Zapata\Gestor de Productos Nazareno Zapata\bin\Debug\net8.0-windows\Gestor de Productos Nazareno Zapata.exe
+C:\Users\Nazz\source\repos\Gestor de Productos Nazareno Zapata\Gestor de Productos Nazareno Zapata\bin\Debug\net8.0-windows\Gestor de Productos Nazareno Zapata.deps.json
+C:\Users\Nazz\source\repos\Gestor de Productos Nazareno Zapata\Gestor de Productos Nazareno Zapata\bin\Debug\net8.0-windows\Gestor de Productos Nazareno Zapata.runtimeconfig.json
+C:\Users\Nazz\source\repos\Gestor de Productos Nazareno Zapata\Gestor de Productos Nazareno Zapata\bin\Debug\net8.0-windows\Gestor de Productos Nazareno Zapata.dll
+C:\Users\Nazz\source\repos\Gestor de Productos Nazareno Zapata\Gestor de Productos Nazareno Zapata\bin\Debug\net8.0-windows\Gestor de Productos Nazareno Zapata.pdb
+C:\Users\Nazz\source\repos\Gestor de Productos Nazareno Zapata\Gestor de Productos Nazareno Zapata\obj\Debug\net8.0-windows\Gestor de Productos Nazareno Zapata.dll
+C:\Users\Nazz\source\repos\Gestor de Productos Nazareno Zapata\Gestor de Productos Nazareno Zapata\obj\Debug\net8.0-windows\refint\Gestor de Productos Nazareno Zapata.dll
+C:\Users\Nazz\source\repos\Gestor de Productos Nazareno Zapata\Gestor de Productos Nazareno Zapata\obj\Debug\net8.0-windows\Gestor de Productos Nazareno Zapata.pdb
+C:\Users\Nazz\source\repos\Gestor de Productos Nazareno Zapata\Gestor de Productos Nazareno Zapata\obj\Debug\net8.0-windows\Gestor de Productos Nazareno Zapata.genruntimeconfig.cache
+C:\Users\Nazz\source\repos\Gestor de Productos Nazareno Zapata\Gestor de Productos Nazareno Zapata\obj\Debug\net8.0-windows\ref\Gestor de Productos Nazareno Zapata.dll
+C:\Users\Nazz\source\repos\Gestor de Productos Nazareno Zapata\Gestor de Productos Nazareno Zapata\obj\Debug\net8.0-windows\Gestor d.09014E37.Up2Date
+C:\Users\Nazz\source\repos\Gestor de Productos Nazareno Zapata\Gestor de Productos Nazareno Zapata\obj\Debug\net8.0-windows\Gestor_de_Productos_Nazareno_Zapata.FormDetalle.resources

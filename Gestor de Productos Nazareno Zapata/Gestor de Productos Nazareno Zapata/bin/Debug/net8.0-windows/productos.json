@@ -1,0 +1,38 @@
+[
+  {
+    "Id": 1,
+    "Nombre": "Bueno ahi lo mandamos",
+    "Precio": 123,
+    "Stock": 1231
+  },
+  {
+    "Id": 2,
+    "Nombre": "gracias",
+    "Precio": 123,
+    "Stock": 1231
+  },
+  {
+    "Id": 3,
+    "Nombre": "Ahhh",
+    "Precio": 1232,
+    "Stock": 212
+  },
+  {
+    "Id": 4,
+    "Nombre": "despacito",
+    "Precio": 2222,
+    "Stock": 31231
+  },
+  {
+    "Id": 5,
+    "Nombre": "Bueno ahi lo mandamos",
+    "Precio": 2134,
+    "Stock": 122
+  },
+  {
+    "Id": 6,
+    "Nombre": "2222",
+    "Precio": 2,
+    "Stock": 2
+  }
+]
